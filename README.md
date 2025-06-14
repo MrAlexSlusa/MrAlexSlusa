@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @MrAlexSlusa
-- 👀 I’m interested in coding (html, css, python, js) but also I like Counter Strike and to edit videos
-- 🌱 I’m currently learning C++ and JavaScript
-- 💞️ I’m looking to collaborate on frontend web and app developing 
-- 📫 How to reach me: email me @ alexslusa2010@gmail.com or on discord @ mrslushy._.69._. or on ig that is in bio
-- 😄 Pronouns: He / Him
+- 👀 I’m interested in coding, AI development and video/photo editing
+- 📫 How to reach me: email me alexslusa2010@gmail.com 
 - ⚡ Fun fact: I used to have an iPhone but now I hate apple 
 
 <!---
